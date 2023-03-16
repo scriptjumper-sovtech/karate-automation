@@ -1,5 +1,5 @@
 # Mac file ignore
 .DS_Store
 
-# npm package installs ignore
-node_modules/
+# dependencies
+/node_modules
