@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/scriptjumper-sovtech/karate-automation/issues"
   },
-  "homepage": "https://github.com/scriptjumper-sovtech/karate-automation#readme"
+  "homepage": "https://github.com/scriptjumper-sovtech/karate-automation#readme",
+  "dependencies": {
+    "@karatelabs/karate": "^0.2.3"
+  }
 }
